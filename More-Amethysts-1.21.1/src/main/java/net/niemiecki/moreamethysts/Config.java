@@ -1,4 +1,4 @@
-package net.niemiecki;
+package net.niemiecki.moreamethysts;
 
 import java.util.List;
 import java.util.Set;

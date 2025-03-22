@@ -1,4 +1,4 @@
-package net.niemiecki;
+package net.niemiecki.moreamethysts;
 
 import org.slf4j.Logger;
 
